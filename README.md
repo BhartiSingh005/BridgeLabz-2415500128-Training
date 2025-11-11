@@ -1,6 +1,6 @@
 # 🌟 Bridgelabz Java Training Journey  
 **Trainee ID:** 2415500128  
-**Program:** Java Full Stack Development Training  
+**Program:** Java Development Training  
 **Organization:** Bridgelabz  
 **Duration:** August – November 2025  
 
@@ -120,3 +120,4 @@ By working on practical problems, I’ve learned to write **efficient, modular, 
 **📅 Duration:** August – November 2025  
 
 ---
+
